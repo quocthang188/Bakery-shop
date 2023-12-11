@@ -1,0 +1,261 @@
+{
+  "seller": [
+    {
+      "name": "ShineBakery",
+      "password": "ShineBakery",
+      "email": "ShineBakery@seller.com",
+      "id": 1
+    },
+    {
+      "name": "ngan",
+      "email": "ngan@gmail.com",
+      "password": "ngan",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Buttercream Bread",
+      "price": "70000",
+      "category": "BREAD",
+      "taste": "",
+      "description": "Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)",
+      "image": "https://assets-global.website-files.com/6419b668828857182d1e7359/645068bb1560011534b8f210_Butter%20Cream%20Bread.webp",
+      "id": 1,
+      "categoryId": 1
+    },
+    {
+      "name": "Buttercream Bread",
+      "price": "60000",
+      "category": "CAKE",
+      "taste": "",
+      "description": "Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)",
+      "image": "https://assets-global.website-files.com/6419b668828857182d1e7359/645068bb1560011534b8f210_Butter%20Cream%20Bread.webp",
+      "id": 2,
+      "categoryId": 2
+    },
+    {
+      "name": "Buttercream Bread",
+      "price": "50000",
+      "category": "PASTRY",
+      "taste": "",
+      "description": "Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)",
+      "image": "https://assets-global.website-files.com/6419b668828857182d1e7359/645068bb1560011534b8f210_Butter%20Cream%20Bread.webp",
+      "id": 3,
+      "categoryId": 3
+    },
+    {
+      "name": "Buttercream Bread",
+      "price": "40000",
+      "category": "BEVERAGE",
+      "taste": "",
+      "description": "Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)",
+      "image": "https://assets-global.website-files.com/6419b668828857182d1e7359/645068bb1560011534b8f210_Butter%20Cream%20Bread.webp",
+      "id": 4,
+      "categoryId": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "BREAD"
+    },
+    {
+      "id": 2,
+      "categoryName": "CAKE"
+    },
+    {
+      "id": 3,
+      "categoryName": "PASTRY"
+    },
+    {
+      "id": 4,
+      "categoryName": "BEVERAGES"
+    }
+  ],
+  "users": [
+    {
+      "name": "ngan",
+      "password": "ngan",
+      "email": "ngan@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "thang",
+      "password": "thang",
+      "email": "thang@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "name": "testcart",
+      "email": "testcart@gmail.com",
+      "password": "testcart",
+      "id": 123456
+    }
+  ],
+  "cart": [
+    {
+      "name": "Buttercream Bread",
+      "price": "70000",
+      "category": "BREAD",
+      "taste": "",
+      "description": "Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)",
+      "image": "https://assets-global.website-files.com/6419b668828857182d1e7359/645068bb1560011534b8f210_Butter%20Cream%20Bread.webp",
+      "categoryId": 1,
+      "quantity": 2,
+      "productId": 1,
+      "userId": 123456,
+      "id": 1
+    },
+    {
+      "name": "Buttercream Bread",
+      "price": "50000",
+      "category": "PASTRY",
+      "taste": "",
+      "description": "Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)Bread dough(wheat flour, water, margarine, whole egg, sugar, mixed skim milk powder, yeast, whipping cream, sea salt, bread improver, yeast, skimmed milk powder), Butter cream, Egg wash(egg, water)",
+      "image": "https://assets-global.website-files.com/6419b668828857182d1e7359/645068bb1560011534b8f210_Butter%20Cream%20Bread.webp",
+      "categoryId": 3,
+      "quantity": 2,
+      "productId": 3,
+      "userId": 123456,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "name": "Tran Quoc Thang",
+      "email": "viktor1882002@gmail.com",
+      "tel": "0937423008",
+      "address": "1",
+      "city": "",
+      "district": "",
+      "shipMethod": "store",
+      "payMethod": "online",
+      "totalPrice": 450000,
+      "userId": 123456,
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "tel": "",
+      "address": "",
+      "city": "",
+      "district": "",
+      "shipMethod": "shipping",
+      "payMethod": "online",
+      "totalPrice": 20000,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "tel": "",
+      "address": "",
+      "city": "",
+      "district": "",
+      "shipMethod": "shipping",
+      "payMethod": "online",
+      "totalPrice": 20000,
+      "userId": null,
+      "id": 5
+    },
+    {
+      "name": "asd",
+      "email": "viktor1882002@gmail.com",
+      "tel": "0937423008",
+      "address": "1",
+      "city": "1231",
+      "district": "12323",
+      "shipMethod": "store",
+      "payMethod": "online",
+      "totalPrice": 190000,
+      "id": 6
+    },
+    {
+      "name": "Tran Quoc Thang",
+      "email": "viktor1882002@gmail.com",
+      "tel": "0937423008",
+      "address": "1",
+      "city": "1231",
+      "district": "",
+      "shipMethod": "shipping",
+      "payMethod": "online",
+      "totalPrice": 210000,
+      "id": 7
+    },
+    {
+      "name": "eweqwewqewqewqq",
+      "email": "ewqdqwd",
+      "tel": "asdsadsa",
+      "address": "asdsada",
+      "city": "sadas",
+      "district": "dsada",
+      "shipMethod": "shipping",
+      "payMethod": "online",
+      "totalPrice": 210000,
+      "id": 8
+    },
+    {
+      "name": "eweqwewqewqewqq",
+      "email": "ewqdqwd",
+      "tel": "asdsadsa",
+      "address": "asdsada",
+      "city": "sadas",
+      "district": "dsada",
+      "shipMethod": "shipping",
+      "payMethod": "online",
+      "totalPrice": 210000,
+      "id": 9
+    },
+    {
+      "name": "eweqwewqewqewqq",
+      "email": "ewqdqwd",
+      "tel": "asdsadsa",
+      "address": "asdsada",
+      "city": "sadas",
+      "district": "dsada",
+      "shipMethod": "shipping",
+      "payMethod": "online",
+      "totalPrice": 210000,
+      "id": 10
+    },
+    {
+      "name": "asd",
+      "email": "viktor1882002@gmail.com",
+      "tel": "0937423008",
+      "address": "1",
+      "city": "1231",
+      "district": "",
+      "shipMethod": "shipping",
+      "payMethod": "online",
+      "totalPrice": 230000,
+      "id": 11
+    },
+    {
+      "name": "Tran Quoc Thang",
+      "email": "viktor1882002@gmail.com",
+      "tel": "0937423008",
+      "address": "1",
+      "city": "1231",
+      "district": "",
+      "shipMethod": "shipping",
+      "payMethod": "cash",
+      "totalPrice": 340000,
+      "id": 12
+    }
+  ]
+}
